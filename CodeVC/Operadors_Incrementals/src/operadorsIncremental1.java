@@ -1,4 +1,4 @@
-public class operadorsIncrementals {
+public class operadorsIncremental1 {
     public static void main(String[] args) throws Exception {
         
         int x; int y; 
@@ -9,6 +9,6 @@ public class operadorsIncrementals {
         y = x++; 
             System.out.println(y);
             System.out.println("Valor de x es: "+ x);
-            System.out.println("Valor de y es: "+ y);
+            System.out.println("Valor de pep es: "+ y);
     }
 }
