@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "CodeVC/Operadors_Incrementals/src",
+        "M1/Codis"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}

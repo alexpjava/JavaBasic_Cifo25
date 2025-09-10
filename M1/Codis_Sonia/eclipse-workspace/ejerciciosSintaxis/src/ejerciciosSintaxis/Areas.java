@@ -1,3 +1,5 @@
+package ejerciciosSintaxis;
+
 public class Areas {
 
 	public static void main(String[] args) {
@@ -15,6 +17,10 @@ public class Areas {
 		float areaC= pi*radio*radio;
 		//System.out.println("El área del cercle es:"+areaC);
 		//System.out.println("El área del cercle es:"+(pi*radio*radio));
-		System.out.printf("El área del cercle es %1.2f", areaC);
+		
+		System.out.printf("El área del \n cercle és %1.3f%n", areaC);
+		System.out.println("El área del cercle  es:"+areaC);
+
 	}
+
 }
