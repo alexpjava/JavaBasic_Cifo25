@@ -8,6 +8,8 @@ public class Main {
         // Creació d'una llista per poder agrupar tots els clients creats amb la classe.(ArrayList<Customers>).
         List<Customer> customers;
 
+        // Creació de Clients
+
 
         // Crear clients
         Customer cust1 = new Customer(
