@@ -1,0 +1,17 @@
+
+Para resolver el error "no encuentra la clase main" en IntelliJ IDEA, verifica que la clase esté en el paquete correcto, que el nombre del archivo coincida con el de la clase, que la clase esté marcada como fuente principal del proyecto, que no haya problemas con la configuración del SDK de Java, que la caché del IDE no esté corrupta, o que la configuración de ejecución sea incorrecta. Realizar una reconstrucción del proyecto y limpiar la caché suele ser una solución efectiva, según indica Stack Overflow. 
+Pasos para la solución:
+Verifica el Paquete y Nombre del Archivo:
+Asegúrate de que la clase main esté definida en el paquete correcto y que el nombre del archivo Java (NombreClase.java) coincida exactamente con el nombre de la clase main.
+Revisa la Configuración del Proyecto:
+Directorios Fuente: Ve a File > Project Structure > Modules y verifica que el directorio src/main/java esté configurado como la raíz de fuentes (Source Root).
+SDK de Java: Confirma que el Proyecto tenga un JDK configurado correctamente. Pulsa Ctrl+Alt+S para abrir la configuración, ve a Project > Project SDK y selecciona el SDK de Java apropiado.
+Reconstruye y Limpia la Caché:
+A veces, los problemas se resuelven al reconstruir el proyecto. Ve a Build > Rebuild Project.
+Si eso no funciona, puedes intentar invalidar la caché del IDE. Ve a File > Invalidate Caches / Restart... y selecciona Invalidate and Restart.
+Configuración de Ejecución:
+Asegúrate de que la configuración de ejecución (Run Configuration) esté apuntando a tu clase main con la opción correcta para el método principal.
+Para ello, haz clic en el nombre de la clase en el editor y busca el ícono de ejecución, o ve a Run > Edit Configurations....
+Desactiva Plugins Temporales:
+En ocasiones, los plugins de terceros pueden causar conflictos. Intenta desactivar todos los plugins no incluidos en la instalación base y reinicia IntelliJ IDEA. Si esto resuelve el problema, puedes habilitarlos uno a uno para identificar el causante. 
+Siguiendo estos pasos, deberías poder identificar y resolver el problema de que IntelliJ no encuentre tu clase principal. 

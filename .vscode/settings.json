@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "M1/Codis",
         "CodeVC/Operadors_Incrementals/src",
-        "M1/Codis"
+        "CodeVC/ExercicisInOut/src"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

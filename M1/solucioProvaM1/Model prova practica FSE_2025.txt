@@ -1,0 +1,20 @@
+Programa que pide inicialmente dos números *qualsevols.
+Posteriormente pedirá un usuario y una contraseña (solo se piden una vez estos datos).
+Usuario con permiso: 
+•	Pere con contraseña 1T24P
+
+Tener en cuenta que la persona usuaria puede poner tanto mayúsculas como minúsculas en el caso del usuario y será igual de correcto (se tiene que controlar la entrada).
+
+Si es la persona con permisos se le pide qué operación quiere, en caso contrario no se hace ninguna acción.
+Dos opciones posibles para hacer: 
+1.	Se pide la operación solo una vez.
+2.	Se pide la operación mientras no sea una de las opciones permitidas.
+Las operaciones posibles son la suma, el resto , la multiplicación y la división.
+Una vez elegida una de las opciones correctas se realiza la operación.
+
+Ejemplo de salida deseada:
+Querido Pere,
+Su operación elegida es el resto
+Los números introducidos son: 20.0 y 9.0
+Y el resultado es 11.0
+Entrada y salida de datos desde consola.
