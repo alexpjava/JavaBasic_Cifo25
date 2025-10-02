@@ -4,7 +4,7 @@ Incrementally built with **Maven**, following an **MVC (Model–View–Controlle
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Maven](https://img.shields.io/badge/Maven-3.8+-blue)
-![Build](https://github.com/alexpjava/BankAlpy/actions/workflows/ci.yml/badge.svg)
+![Build](https://github.com/AlexPJava/BankAlpy/actions/workflows/ci.yml/badge.svg)
 
 ---
 
