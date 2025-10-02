@@ -7,6 +7,8 @@
 
 This diagram shows the relationships between **Address, ZipCode, City, Country, and StreetType**.
 
+[⬅️ Back to Index](../README.md#table-of-contents)
+
 ```mermaid
 erDiagram
     COUNTRY {
@@ -59,5 +61,3 @@ erDiagram
     ZIPCODE ||--o{ ACCOUNT_ADDRESS : "belongs to"
     ACCOUNT_ADDRESS ||--o{ CUSTOMER_ADDRESS : "linked"
     CUSTOMER ||--o{ CUSTOMER_ADDRESS : "linked"
-```` ``` ````
-    [⬅️ Back to Index](../README.md#table-of-contents)

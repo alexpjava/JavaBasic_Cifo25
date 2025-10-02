@@ -3,6 +3,8 @@
 This page contains the **ER diagram** of the banking domain (Customer, Account, Transactions, Loans, Currency, AccountType).  
 Paste this block into the file and GitHub will render the diagram automatically.
 
+ [⬅️ Back to Index](../README.md#table-of-contents)
+
 ```mermaid
 erDiagram
     CUSTOMER {
@@ -79,5 +81,4 @@ erDiagram
 
     CURRENCY ||--o{ CURRENCY_ACCOUNT_TYPE : "assigned"
     ACCOUNT_TYPE ||--o{ CURRENCY_ACCOUNT_TYPE : "assigned"
-```` ``` ````
-    [⬅️ Back to Index](../README.md#table-of-contents)
+
