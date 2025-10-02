@@ -71,4 +71,4 @@ erDiagram
     ACCOUNTTYPE ||--o{ CURRENCY_ACCOUNTTYPE : "allowed in"
     CURRENCY ||--o{ CURRENCY_ACCOUNTTYPE : "allowed in"
 
-    [⬅️ Volver al índice](../README.md#índice)
+    ⬅️ Volver al índice](../README.md#índice)

@@ -1,15 +1,11 @@
-# JavaBasic_Cifo25
-Basic Java Codes
-
-
 # MiniBank Project
 
-Welcome to the **BankAlPy** backend project in Java.  
+Welcome to **MiniBank**, a backend-focused project built in **Java** that evolves from in-memory persistence to a full **SQL database** implementation.  
+The goal is to learn and apply best practices while scaling the project step by step.
 
-We’ve separated the ER diagrams into two domains for clarity:
+---
 
-## 📑 Índice
-- [Visión General](docs/overview.md)
-- [Diagrama Lógico](docs/logical-domain.md)
-- [Dominio Geográfico](docs/geographical-domain.md)
-
+## 📑 Table of Contents
+- [Overview](docs/overview.md)
+- [Logical Domain Diagram](docs/logical-domain.md)
+- [Geographical Domain Diagram](docs/geographical-domain.md)

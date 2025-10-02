@@ -62,4 +62,4 @@ erDiagram
     ACCOUNT_ADDRESS ||--o{ CUSTOMER_ADDRESS : "linked"
     CUSTOMER ||--o{ CUSTOMER_ADDRESS : "linked"
 
-    [⬅️ Volver al índice](../README.md#índice)
+    ⬅️ Volver al índice](../README.md#índice)
