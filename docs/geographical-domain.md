@@ -20,6 +20,7 @@ erDiagram
     CITY {
         int IdCity PK
         string City
+        int FkCountry FK
     }
 
     ZIPCODE {
@@ -29,6 +30,8 @@ erDiagram
 
     ZIPCODE_CITY {
         int IdZipCodeCity PK
+        int FkZipCode FK
+        int FkCity FK
     }
 
     STREETTYPE {
@@ -42,10 +45,14 @@ erDiagram
         int NumberStreet
         int FloorNumber
         string DoorNumber
+        int FkStreetType FK
+        int FkZipCode FK
     }
 
     CUSTOMER_ADDRESS {
         int IdCustomerAddress PK
+        int FkCustomer FK
+        int FkAddress FK
     }
 
     CUSTOMER {
