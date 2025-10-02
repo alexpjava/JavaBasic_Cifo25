@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="590d7c42-63fd-40fc-a442-0fc92ddc210d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BankingReduce/src/Loan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingReduce/BaseDatos/DiagramaDIA/CuentaBanc_Reduce_v2.dia" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingReduce/BaseDatos/DiagramaDIA/CuentaBanc_Reduce_v2.dia" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingReduce/BaseDatos/DiagramaDIA/CuentaBanc_Reduce_v2.dia.autosave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingReduce/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingReduce/src/Account.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alexpjava&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alexpjava/JavaBasic_Cifo25.git&quot;,
+    &quot;accountId&quot;: &quot;06b2dded-a777-492c-a469-6cf7e7496e23&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="33SORvXIf66EJmSHbxMrSKxdz6G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "G:/La meva unitat/JavaBasic_Cifo25/M2/IntelliJ/Electrodomestics/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="590d7c42-63fd-40fc-a442-0fc92ddc210d" name="Changes" comment="" />
+      <created>1759307002607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759307002607</updated>
+    </task>
+    <servers />
+  </component>
+</project>

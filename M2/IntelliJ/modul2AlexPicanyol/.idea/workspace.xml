@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28be80a4-09a0-4135-94f0-9e3e47a889ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BankingReduce/src/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Model_Vista_Controlador/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Model_Vista_Controlador/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Model_Vista_Controlador/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Model_Vista_Controlador/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Model_Vista_Controlador/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Model_Vista_Controlador/src/main/java/org/example/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Model_Vista_Controlador/src/main/java/org/example/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Model_Vista_Controlador/src/main/java/org/example/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Model_Vista_Controlador/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Codis/eclipse-workspace/funcions/bin/funcions/Ejemplo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Codis/eclipse-workspace/funcions/bin/funcions/Ejemplo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Codis/eclipse-workspace/funcions/bin/funcions/Ejemplo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Codis/eclipse-workspace/funcions/bin/funcions/Ejemplo5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Codis/eclipse-workspace/funcions/src/funcions/Ejemplo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Codis/eclipse-workspace/funcions/src/funcions/Ejemplo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Codis/eclipse-workspace/funcions/src/funcions/Ejemplo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Codis/eclipse-workspace/funcions/src/funcions/Ejemplo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingReduce/BaseDatos/DiagramaDIA/CuentaBanc_Reduce_v2.dia" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingReduce/BaseDatos/DiagramaDIA/CuentaBanc_Reduce_v2.dia" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingReduce/BaseDatos/DiagramaDIA/CuentaBanc_Reduce_v2.dia.autosave" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingReduce/out/production/BankingReduce/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingReduce/out/production/BankingReduce/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingReduce/out/production/BankingReduce/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingReduce/out/production/BankingReduce/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingReduce/out/production/BankingReduce/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingReduce/out/production/BankingReduce/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingReduce/out/production/BankingReduce/Transaction$Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingReduce/out/production/BankingReduce/Transaction$Type.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingReduce/out/production/BankingReduce/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingReduce/out/production/BankingReduce/Transaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingReduce/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingReduce/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingReduce/src/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingReduce/src/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankingReduce/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BankingReduce/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/IntelliJ/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/IntelliJ/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/IntelliJ/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/IntelliJ/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/IntelliJ/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/IntelliJ/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/IntelliJ/claseEmpleado.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/IntelliJ/exercici_01A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/IntelliJ/src/Empleado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/IntelliJ/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitleds545/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitleds545/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitleds545/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitleds545/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitleds545/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitleds545/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitleds545/untitleds545.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitledsss/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitledsss/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitledsss/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitledsss/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitledsss/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitledsss/untitledsss.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alexpjava&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alexpjava/JavaBasic_Cifo25.git&quot;,
+    &quot;accountId&quot;: &quot;06b2dded-a777-492c-a469-6cf7e7496e23&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="33V7liJuxUtbQG8LAU3vDbGHNYS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/La meva unitat/JavaBasic_Cifo25/M2/IntelliJ/modul2AlexPicanyol",
+    "onboarding.tips.debug.path": "G:/La meva unitat/JavaBasic_Cifo25/M2/IntelliJ/Estudiant/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28be80a4-09a0-4135-94f0-9e3e47a889ec" name="Changes" comment="" />
+      <created>1759390538767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759390538767</updated>
+    </task>
+    <servers />
+  </component>
+</project>
