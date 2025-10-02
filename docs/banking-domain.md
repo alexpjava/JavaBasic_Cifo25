@@ -1,6 +1,8 @@
 # JavaBasic_Cifo25
 Basic Java Codes
 
+[⬅️ Back to Index](../README.md#table-of-contents)
+
 # Banking Domain ERD
 
 This diagram shows the relationships between **Customer, Account, Transactions, Loans, Currency, and AccountType**.
@@ -70,6 +72,5 @@ erDiagram
     ACCOUNT ||--|| ACCOUNTTYPE : "is type"
     ACCOUNTTYPE ||--o{ CURRENCY_ACCOUNTTYPE : "allowed in"
     CURRENCY ||--o{ CURRENCY_ACCOUNTTYPE : "allowed in"
-    ```
 
-    ⬅️ Volver al índice](../README.md#índice)
+```
