@@ -1,7 +1,6 @@
 # Logical Domain ERD
 
 This page contains the **ER diagram** of the banking domain (Customer, Account, Transactions, Loans, Currency, AccountType).  
-Paste this block into the file and GitHub will render the diagram automatically.
 
  [⬅️ Back to Index](../README.md#table-of-contents)
 
