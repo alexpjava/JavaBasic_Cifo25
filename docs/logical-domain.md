@@ -79,5 +79,5 @@ erDiagram
 
     CURRENCY ||--o{ CURRENCY_ACCOUNT_TYPE : "assigned"
     ACCOUNT_TYPE ||--o{ CURRENCY_ACCOUNT_TYPE : "assigned"
-
+```` ``` ````
     [⬅️ Back to Index](../README.md#table-of-contents)
