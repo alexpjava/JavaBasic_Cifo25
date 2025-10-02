@@ -1,12 +1,3 @@
-# JavaBasic_Cifo25
-Basic Java Codes
-
-
----
-
-## 📝 `docs/geographical-domain.md`
-
-```markdown
 # Geographical Domain ERD
 
 This diagram shows the relationships between **Address, ZipCode, City, Country, and StreetType**.
@@ -22,6 +13,7 @@ erDiagram
     CITY {
         int IdCity PK
         string City
+        int FkCountry FK
     }
 
     ZIPCODE {
@@ -31,6 +23,8 @@ erDiagram
 
     ZIPCODE_CITY {
         int IdZipCodeCity PK
+        int FkZipCode FK
+        int FkCity FK
     }
 
     STREETTYPE {
@@ -44,10 +38,14 @@ erDiagram
         int NumberStreet
         int FloorNumber
         string DoorNumber
+        int FkStreetType FK
+        int FkZipCode FK
     }
 
     CUSTOMER_ADDRESS {
         int IdCustomerAddress PK
+        int FkCustomer FK
+        int FkAddress FK
     }
 
     CUSTOMER {
@@ -64,3 +62,4 @@ erDiagram
     ACCOUNT_ADDRESS ||--o{ CUSTOMER_ADDRESS : "linked"
     CUSTOMER ||--o{ CUSTOMER_ADDRESS : "linked"
 
+    [⬅️ Volver al índice](../README.md#índice)
