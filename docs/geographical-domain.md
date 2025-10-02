@@ -5,53 +5,45 @@
 ```markdown
 # Geographical Domain ERD
 
-This page contains the **ER diagram** of the geographical domain (Address, ZipCode, City, Country, StreetType).  
-Paste this block into the file and GitHub will render the diagram automatically.
+This diagram shows the relationships between **Address, ZipCode, City, Country, and StreetType**.
 
 ```mermaid
 erDiagram
     COUNTRY {
         int IdCountry PK
-        string CountryName
-        string CountryCode
+        string Country
+        string Abbreviation
     }
 
     CITY {
         int IdCity PK
-        string CityName
-        int FkCountry FK
+        string City
     }
 
     ZIPCODE {
         int IdZipCode PK
-        string ZipCodeValue
+        string ZipCode
     }
 
     ZIPCODE_CITY {
         int IdZipCodeCity PK
-        int FkZipCode FK
-        int FkCity FK
     }
 
-    STREET_TYPE {
+    STREETTYPE {
         int IdStreetType PK
-        string StreetTypeName
+        string StreetType
     }
 
     ACCOUNT_ADDRESS {
         int IdAddress PK
         string StreetName
-        int StreetNumber
+        int NumberStreet
         int FloorNumber
         string DoorNumber
-        int FkStreetType FK
-        int FkZipCode FK
     }
 
     CUSTOMER_ADDRESS {
         int IdCustomerAddress PK
-        int FkCustomer FK
-        int FkAddress FK
     }
 
     CUSTOMER {
@@ -60,11 +52,11 @@ erDiagram
     }
 
     %% Relationships
-    COUNTRY ||--o{ CITY : "contains"
-    CITY ||--o{ ZIPCODE_CITY : "maps"
-    ZIPCODE ||--o{ ZIPCODE_CITY : "maps"
-    STREET_TYPE ||--o{ ACCOUNT_ADDRESS : "defines"
-    ZIPCODE ||--o{ ACCOUNT_ADDRESS : "locates"
+    COUNTRY ||--o{ CITY : "has"
+    CITY ||--o{ ZIPCODE_CITY : "linked"
+    ZIPCODE ||--o{ ZIPCODE_CITY : "linked"
+    STREETTYPE ||--o{ ACCOUNT_ADDRESS : "defines"
+    ZIPCODE ||--o{ ACCOUNT_ADDRESS : "belongs to"
     ACCOUNT_ADDRESS ||--o{ CUSTOMER_ADDRESS : "linked"
     CUSTOMER ||--o{ CUSTOMER_ADDRESS : "linked"
 
