@@ -1,8 +1,3 @@
-
----
-
-### `docs/geographical-domain.md`
-```markdown
 # Geographical Domain ERD
 
 This diagram shows the relationships between **Address, ZipCode, City, Country, and StreetType**.
